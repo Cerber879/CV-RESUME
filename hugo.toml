@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'ru-ru'
+title = 'MY CV resume'
+theme = "resume-a4"
