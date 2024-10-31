@@ -1,17 +1,26 @@
 projects:
-- title: "Simulated Annealing for Traveling Salesman Problem"
-  subtitle: "Some University"
-  date: "2016"
-  details: |
-    Lorem ipsum dolor sit amet
+  - title: "Проект сайта для блога"
+    details: |
+      Сверстал сайт для ведения блога о путешествиях на HTML5, добавил стилизацию элементов с
+      помощью CSS, с помощью Golang реализовал
+      web-сервер, написал и реализовал базу данных и доступ к ней на MySQL, с помощью
+      JavaScript добавил некоторые анимации элементам сайта, добавил шаблонизацию
+      страницы, сверстал страницу админки, реализовал возможность создания новых постов,
+      добавил обработку ошибок, освоил азы адаптивной и отзывчивой вёрстки, добавил
+      аутентификацию для сайта блога.
+    links:
+    - title: Проект можно посмотреть в Github
+      url: https://github.com/Cerber879/web
+      icon: fab fa-github
 
-- title: "Resume - A4"
-  subtitle: "mertbakir.gitlab.io/resume"
-  link: "https://gitlab.com/mertbakir/resume-a4"
-  date: "2020"
-  details: |
-    Bring CI/CD to your resume using YAML and Git."
-  links:
-  - title: Available in GitLab
-    url: https://gitlab.com/mertbakir/resume-a4
-    icon: fab fa-gitlab
+  - title: "Проект редактора открыток"
+    details: |
+      Освоил азы TypeScript, изучил возможности пакетных менеджеров, заплагинил к проекту
+      NPM, познакомился с styleint, prettier, eslint, подключил к проекту библиотеку React,
+      реализовал сохранение документов сайта в JSON, организовал работу с арт объектами,
+      текстами и картинками, познакомился с Redux, реализовал историю команд (Undo, Redo) и
+      сохранение открытки в PDF.
+    links:
+      - title: Проект можно посмотреть в Github
+        url: https://github.com/Cerber879/CardMaker
+        icon: fab fa-github

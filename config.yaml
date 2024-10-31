@@ -1,6 +1,6 @@
 baseURL: "/"
-languageCode: "en-us"
-title: "Resume | MERT BAKIR"
+languageCode: "ru-ru"
+title: "Резюме | АФАНАСЬЕВ НИКИТА"
 disableKinds: ["taxonomy", "term", "page", "section", "RSS", "sitemap", "robotsTXT", "404"]
 theme: "resume-a4"
 
@@ -58,29 +58,38 @@ params:
     links: false
   side:
     - feature: languages
+      title: Языки
     - feature: skills
+      title: Скилы
       widget: word-list
       style: compact # list, compact, title-list
     - feature: education
+      title: Образование
     - feature: interests
+      title: Интересы
       widget: word-list
       style: list
   pages:
     - features:
         - feature: about
-          title: About Me
+          title: Обо мне
         - feature: experience
+          title: Опыт
     - features:
         - feature: experience
-          title: Experience (Cont.)
+          title: Опыт
         - feature: projects
+          title: Проекты
           collection: projects
         - feature: publications
+          title: Публикации
           style: IEEE # IEEE, APA, else
         - feature: awards
+          title: Наминации
         - feature: certificates
-          title: Certifications
+          title: Сертификаты
         - feature: interests
+          title: Интересы
           widget: word-list
           style: list
   experience:
@@ -106,13 +115,13 @@ params:
     show: true
     credits: true
     footnote: >-
-      You can print this resume in A4 size or save as pdf. | Last update on 2020-09-01.
+      Вы можете распечатать это резюме в формате А4 или сохранить в формате pdf. | Последнее обновление от 2024-10-31.
     links:
-      - prefix: Contact me on
-        title: Linkedin
-        url: 'https://linkedin.com/in/mertbakir/'
-        icon: fab fa-linkedin
-      - prefix: Check out my
-        title: Website
-        url: 'https://mertbakir.gitlab.io/about/'
-        icon: fas fa-globe
+      - prefix: Свяжитесь со мной в
+        title: Telegram
+        url: 'https://t.me/Darknest20'
+        icon: fab fa-telegram
+      - prefix: Посмотрите мои проекты на
+        title: GitHub
+        url: 'https://github.com/Cerber879'
+        icon: fab fa-github
