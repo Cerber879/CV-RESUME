@@ -1,82 +1,57 @@
 about:
-  name: Mert Bakir
-  tagline: Data Scientist
-  phone: "5070*4****"
-  email: yourmail@yourdomain
+  name: Афанасьев Никита
+  tagline: студент направления Программных Систем
+  phone: "89677567671"
+  email: nik.afansev789@mail.ru
   links:
-    - title: /in/mertbakir
-      url: https://tr.linkedin.com/in/mertbakir
-      icon: fab fa-linkedin
-    - title: mertbakir
-      url: https://gitlab.com/mertbakir/
-      icon: fab fa-gitlab
-    - title: mertbakir
-      url: https://github.com/mertbakir
+    - title: Cerber879
+      url: https://github.com/Cerber879
       icon: fab fa-github
   details: |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
-    Aenean nec volutpat arcu. Maecenas quis tempus risus. Curabitur condimentum ligula in erat pharetra porta.
+    Я студент ПГТУ Йошкар-Олы, учусь в области программной инженерии. Моя страсть к технологиям и программированию началась еще в школе, где я участвовал в различных олимпиадах и конкурсах по информатике. В университете я углубляю свои знания в области разработки программного обеспечения, изучая современные технологии и методы.
 
-    Nam suscipit nisi a bibendum lacinia.
-
+    В свободное время я занимаюсь спортом, катаюсь на велосипеде и играю в компьютерные игры. Я также активно участвую в жизни института, принимая участие в различных мероприятиях и проектах. Моя цель — стать высококвалифицированным специалистом в области программной инженерии и внести свой вклад в развитие технологий.
 
 skills:
-  - groupName: Databases & Visualization
+  - groupName: Фронтенд
     list:
-      - Grafana - Kibana - PowerBI
-      - InfluxDB - TICK Stack
+      - React - TypeScript
+      - HTML - CSS
+      - JavaScript
 
-  - groupName: Data Analysis & Analytics
+  - groupName: Базы данных
     list:
-      - Python - R - SQL
-      - Excel - Minitab - SPSS
-      - GAMS - PuLP - OR Tools
+      - SQL
+      - MongoDB
+      - PostgreSQL
 
-  - groupName: Programming & Systems
+  - groupName: Программы на C++
     list:
-      - C# - Git - Docker - NGINX
-      - Linux - CentOS RHEL
+      - ООП и ООД
+      - STL (Standard Template Library)
+      - Multithreading
+
+  - groupName: Инструменты и технологии
+    list:
+      - Git
+      - Docker
 
 interests:
-  - Data Science
-  - AI Applications
-  - Optimization Problems
+  - В свободное время занимаюсь спортом, катаюсь на велосипеде и играю в игры.
 
 languages:
-  - name: Turkish
-    level: Native
+  - name: Русский
+    level: Разговорный
 
-  - name: English
-    level: Professional
-    certificates:
-      - "YDS: 86.25 - 2018"
-      - "TOEFL: 109 - 2021"
+  - name: Английский
+    level: Базовый
 
-# This will use the default widget: "details-list"
 awards:
-  - title: "Tübitak - Graduation Project"
-    date: "2017"
-    subtitle: "A Decision Support System for 3D Cutting Problem"
-    #details: |
-    #   - add more here if you like to.
-    #   - or just comment out/delete the field.
-    links:
-      - title: example
-        url: https://mertbakir.gitlab.io
-        icon: fas fa-bolt
-        prefix: "This is an " # use quotation marks if you want to pass the tailing space.
-      - title: second link.
-        url: https://esdfdsfdsf
-        icon: "-" # you can get rid of the icon by entering dummy text
-        prefix: "omg"
+  - title: "Победитель школьной олимпиады по программированию"
+    date: "2019"
+    subtitle: "Первое место в региональной олимпиаде по программированию"
 
 certificates:
-  - title: "Supervised Learning: Regression"
-    subtitle: Coursera
-    date: "2020"
-    link: https://xkcd.com/605/ # This link will be on title level.
-
-  - title: "Supervised Learning: Classification"
-    subtitle: Coursera
-    date: "2020"
-    link: https://xkcd.com/388/
+  - title: "Сертификат за активное участие в жизни института"
+    subtitle: ПГТУ Йошкар-Олы
+    date: "2022"

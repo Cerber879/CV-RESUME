@@ -1,36 +1,16 @@
-- company: Company 1
+- company: Омега
   roles:
-    - role: Data Scientist
+    - role: Практикант
+      tools: React
       details: |
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
-        Aenean nec volutpat arcu. Maecenas quis tempus risus. Curabitur condimentum ligula in erat pharetra porta. 
-        Nam suscipit nisi a bibendum lacinia. Donec aliquet, nibh dignissim placerat efficit
-      date: 10.2020 -  Present
+        Разработал сайт с товарами для дома на React. В рамках проекта я создал интерфейс для отображения каталога товаров, реализовал функции фильтрации и сортировки, а также интегрировал систему отзывов и рейтингов. Сайт был оптимизирован для мобильных устройств и обеспечивал высокую скорость загрузки страниц. В процессе работы я использовал современные библиотеки и инструменты, такие как Redux для управления состоянием приложения и Axios для выполнения HTTP-запросов.
+      date: 01.07.2023-14.07.2023
 
-- company: Company 2
+- company: Омега
   page: 1
-  roles: 
-    - role: Senior Software Developer
+  roles:
+    - role: Практикант
       tools: SQL, Flink, Kafka
       details: |
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
-        Aenean nec volutpat arcu. Maecenas quis tempus risus.
-      date: 06.2019 - 10.2020
-    
-    - role: Junior Software Developer
-      tools: HTML, PHP, CSS
-      date: 10.2018 - 06.2019
-      details: |
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
-        Aenean nec volutpat arcu. Maecenas quis tempus risus.
-
-- company: Company 1
-  page: 2
-  roles:
-    - role: Junior Software Developer
-      tools: C#, Python, Postgresql
-      details: |
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
-        Aenean nec volutpat arcu. Maecenas quis tempus risus. Curabitur condimentum ligula in erat pharetra porta. 
-        Nam suscipit nisi a bibendum lacinia. Donec aliquet, nibh dignissim placerat efficit
-      date: 2017 - 2018
+        Разработал приложение To Do List. В рамках проекта я создал интерфейс для управления задачами, реализовал функции добавления, редактирования и удаления задач, а также интегрировал систему уведомлений. Приложение поддерживало синхронизацию данных между различными устройствами и обеспечивало высокую производительность и надежность. В процессе работы я использовал технологии SQL для хранения данных, Flink для обработки потоков данных в реальном времени и Kafka для передачи сообщений между компонентами системы.
+      date: 01.07.2024-14.07.2024
